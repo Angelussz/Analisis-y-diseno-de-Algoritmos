@@ -1,4 +1,7 @@
 //ANGELO ALDO PEREZ RODRIGUEZ
+//Referencias:
+//https://www.geeksforgeeks.org/c-qsort-vs-c-sort/
+//http://www.cplusplus.com/reference/cstdlib/qsort/
 #include <iostream>
 #include<stdlib.h>
 using namespace std;
